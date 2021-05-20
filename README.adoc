@@ -1,5 +1,6 @@
 = Построение вертикальных формаций
-:toc: left
+:toc: macro
+:table-caption: Содержание 
 
 toc::[]
 
