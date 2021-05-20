@@ -2,7 +2,7 @@
 
 :toc:
 :toc-placement!:
-toc::[]
+:toc::[]
 
 === База
 
