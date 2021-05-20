@@ -1,6 +1,7 @@
 = Построение вертикальных формаций: FAQ 
 :toc: macro
 :toc-title: Содержание 
+:toclevels: 1
 
 toc::[]
 
