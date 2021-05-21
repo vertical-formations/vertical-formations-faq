@@ -8,6 +8,8 @@ toc::[]
 
 == Роли в формации
 
+image::formation-roles.png[]
+
 
 === База
 
